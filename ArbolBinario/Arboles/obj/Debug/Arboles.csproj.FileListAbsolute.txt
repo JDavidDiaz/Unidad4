@@ -1,0 +1,7 @@
+C:\Users\Geo\source\repos\Arboles\Arboles\bin\Debug\Arboles.exe.config
+C:\Users\Geo\source\repos\Arboles\Arboles\bin\Debug\Arboles.exe
+C:\Users\Geo\source\repos\Arboles\Arboles\bin\Debug\Arboles.pdb
+C:\Users\Geo\source\repos\Arboles\Arboles\obj\Debug\Arboles.csprojResolveAssemblyReference.cache
+C:\Users\Geo\source\repos\Arboles\Arboles\obj\Debug\Arboles.csproj.CoreCompileInputs.cache
+C:\Users\Geo\source\repos\Arboles\Arboles\obj\Debug\Arboles.exe
+C:\Users\Geo\source\repos\Arboles\Arboles\obj\Debug\Arboles.pdb
