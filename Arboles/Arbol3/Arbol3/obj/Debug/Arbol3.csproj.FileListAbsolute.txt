@@ -1,0 +1,7 @@
+C:\Users\Geo\source\repos\Arbol3\Arbol3\bin\Debug\Arbol3.exe.config
+C:\Users\Geo\source\repos\Arbol3\Arbol3\bin\Debug\Arbol3.exe
+C:\Users\Geo\source\repos\Arbol3\Arbol3\bin\Debug\Arbol3.pdb
+C:\Users\Geo\source\repos\Arbol3\Arbol3\obj\Debug\Arbol3.csproj.CoreCompileInputs.cache
+C:\Users\Geo\source\repos\Arbol3\Arbol3\obj\Debug\Arbol3.exe
+C:\Users\Geo\source\repos\Arbol3\Arbol3\obj\Debug\Arbol3.pdb
+C:\Users\Geo\source\repos\Arbol3\Arbol3\obj\Debug\Arbol3.csprojResolveAssemblyReference.cache
