@@ -1,0 +1,6 @@
+c:\users\geo\source\repos\Grafo.DiazUriasJorgeDavid\Grafo.DiazUriasJorgeDavid\obj\Debug\Grafo.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+c:\users\geo\source\repos\Grafo.DiazUriasJorgeDavid\Grafo.DiazUriasJorgeDavid\bin\Debug\Grafo.DiazUriasJorgeDavid.exe.config
+c:\users\geo\source\repos\Grafo.DiazUriasJorgeDavid\Grafo.DiazUriasJorgeDavid\bin\Debug\Grafo.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\Grafo.DiazUriasJorgeDavid\Grafo.DiazUriasJorgeDavid\bin\Debug\Grafo.DiazUriasJorgeDavid.pdb
+c:\users\geo\source\repos\Grafo.DiazUriasJorgeDavid\Grafo.DiazUriasJorgeDavid\obj\Debug\Grafo.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\Grafo.DiazUriasJorgeDavid\Grafo.DiazUriasJorgeDavid\obj\Debug\Grafo.DiazUriasJorgeDavid.pdb
