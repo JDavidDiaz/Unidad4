@@ -1,0 +1,7 @@
+c:\users\geo\source\repos\E4-Arbol1.DiazUriasJorgeDavid\E4-Arbol1.DiazUriasJorgeDavid\bin\Debug\E4-Arbol1.DiazUriasJorgeDavid.exe.config
+c:\users\geo\source\repos\E4-Arbol1.DiazUriasJorgeDavid\E4-Arbol1.DiazUriasJorgeDavid\bin\Debug\E4-Arbol1.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\E4-Arbol1.DiazUriasJorgeDavid\E4-Arbol1.DiazUriasJorgeDavid\bin\Debug\E4-Arbol1.DiazUriasJorgeDavid.pdb
+c:\users\geo\source\repos\E4-Arbol1.DiazUriasJorgeDavid\E4-Arbol1.DiazUriasJorgeDavid\obj\Debug\E4-Arbol1.DiazUriasJorgeDavid.csprojResolveAssemblyReference.cache
+c:\users\geo\source\repos\E4-Arbol1.DiazUriasJorgeDavid\E4-Arbol1.DiazUriasJorgeDavid\obj\Debug\E4-Arbol1.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+c:\users\geo\source\repos\E4-Arbol1.DiazUriasJorgeDavid\E4-Arbol1.DiazUriasJorgeDavid\obj\Debug\E4-Arbol1.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\E4-Arbol1.DiazUriasJorgeDavid\E4-Arbol1.DiazUriasJorgeDavid\obj\Debug\E4-Arbol1.DiazUriasJorgeDavid.pdb
