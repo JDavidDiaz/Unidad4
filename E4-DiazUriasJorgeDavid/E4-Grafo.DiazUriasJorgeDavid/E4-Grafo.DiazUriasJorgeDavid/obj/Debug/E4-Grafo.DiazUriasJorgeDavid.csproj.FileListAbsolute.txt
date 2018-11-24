@@ -1,0 +1,7 @@
+c:\users\geo\source\repos\E4-Grafo.DiazUriasJorgeDavid\E4-Grafo.DiazUriasJorgeDavid\bin\Debug\E4-Grafo.DiazUriasJorgeDavid.exe.config
+c:\users\geo\source\repos\E4-Grafo.DiazUriasJorgeDavid\E4-Grafo.DiazUriasJorgeDavid\bin\Debug\E4-Grafo.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\E4-Grafo.DiazUriasJorgeDavid\E4-Grafo.DiazUriasJorgeDavid\bin\Debug\E4-Grafo.DiazUriasJorgeDavid.pdb
+c:\users\geo\source\repos\E4-Grafo.DiazUriasJorgeDavid\E4-Grafo.DiazUriasJorgeDavid\obj\Debug\E4-Grafo.DiazUriasJorgeDavid.csprojResolveAssemblyReference.cache
+c:\users\geo\source\repos\E4-Grafo.DiazUriasJorgeDavid\E4-Grafo.DiazUriasJorgeDavid\obj\Debug\E4-Grafo.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+c:\users\geo\source\repos\E4-Grafo.DiazUriasJorgeDavid\E4-Grafo.DiazUriasJorgeDavid\obj\Debug\E4-Grafo.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\E4-Grafo.DiazUriasJorgeDavid\E4-Grafo.DiazUriasJorgeDavid\obj\Debug\E4-Grafo.DiazUriasJorgeDavid.pdb
